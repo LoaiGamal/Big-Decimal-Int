@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1603789848 source:c:\users\loai\desktop\big decimal int\main.cpp
+	<iostream>
+	<BigDecimalInt.h>
+
+1603789698 c:\users\loai\desktop\big decimal int\include\bigdecimalint.h
+	<string>
+
+1603789698 source:c:\users\loai\desktop\big decimal int\src\bigdecimalint.cpp
+	"BigDecimalInt.h"
+	<iostream>
+	<string>
+
+1603789698 source:e:\study\c++ projects\data structure\assignments\big decimal int\src\bigdecimalint.cpp
+	"BigDecimalInt.h"
+	<iostream>
+	<string>
+
+1603789698 e:\study\c++ projects\data structure\assignments\big decimal int\include\bigdecimalint.h
+	<string>
+
